@@ -42,9 +42,3 @@ Clean and business-friendly visual layout
 KPI cards for quick performance overview
 
 Multiple charts to compare categories and regions
-
-📂 Files Included
-
-Amazon Sales Dashboard.pbix – Power BI dashboard file
-
-README.md – Project documentation
