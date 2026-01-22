@@ -42,3 +42,7 @@ Clean and business-friendly visual layout
 KPI cards for quick performance overview
 
 Multiple charts to compare categories and regions
+
+🌟Here's a glimpse of the report, for detiled view click on the pbix file above:
+<img width="1143" height="657" alt="image" src="https://github.com/user-attachments/assets/fe278274-1398-4af8-8111-75e3d7581f88" />
+
